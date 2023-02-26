@@ -5,4 +5,4 @@ The device itself shouldn't be bigger than a pack of sigarettes.
 
 Great for the Dutch market!
 
-Author: Ensio M.V. Puranen
+Author: Ensio Puranen
